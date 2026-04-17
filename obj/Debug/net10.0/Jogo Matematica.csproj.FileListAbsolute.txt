@@ -1,0 +1,15 @@
+D:\C# estudo\Projetos Basicos\Jogo Matematica\bin\Debug\net10.0\Jogo Matematica.exe
+D:\C# estudo\Projetos Basicos\Jogo Matematica\bin\Debug\net10.0\Jogo Matematica.deps.json
+D:\C# estudo\Projetos Basicos\Jogo Matematica\bin\Debug\net10.0\Jogo Matematica.runtimeconfig.json
+D:\C# estudo\Projetos Basicos\Jogo Matematica\bin\Debug\net10.0\Jogo Matematica.dll
+D:\C# estudo\Projetos Basicos\Jogo Matematica\bin\Debug\net10.0\Jogo Matematica.pdb
+D:\C# estudo\Projetos Basicos\Jogo Matematica\obj\Debug\net10.0\Jogo Matematica.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# estudo\Projetos Basicos\Jogo Matematica\obj\Debug\net10.0\Jogo Matematica.AssemblyInfoInputs.cache
+D:\C# estudo\Projetos Basicos\Jogo Matematica\obj\Debug\net10.0\Jogo Matematica.AssemblyInfo.cs
+D:\C# estudo\Projetos Basicos\Jogo Matematica\obj\Debug\net10.0\Jogo Matematica.csproj.CoreCompileInputs.cache
+D:\C# estudo\Projetos Basicos\Jogo Matematica\obj\Debug\net10.0\Jogo Matematica.sourcelink.json
+D:\C# estudo\Projetos Basicos\Jogo Matematica\obj\Debug\net10.0\Jogo Matematica.dll
+D:\C# estudo\Projetos Basicos\Jogo Matematica\obj\Debug\net10.0\refint\Jogo Matematica.dll
+D:\C# estudo\Projetos Basicos\Jogo Matematica\obj\Debug\net10.0\Jogo Matematica.pdb
+D:\C# estudo\Projetos Basicos\Jogo Matematica\obj\Debug\net10.0\Jogo Matematica.genruntimeconfig.cache
+D:\C# estudo\Projetos Basicos\Jogo Matematica\obj\Debug\net10.0\ref\Jogo Matematica.dll
